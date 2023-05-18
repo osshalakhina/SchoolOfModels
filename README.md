@@ -1,6 +1,6 @@
 # Youth Fashion Laboratory "Valentina" and school of models
 
-My fashion collections of clothes for school of models which was done in Youth Fashion Laboratory "Valentina" in different years.
+Fashion collections of clothes for school of models which was created in Youth Fashion Laboratory "Valentina".
 
 # Preview
 
